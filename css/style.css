@@ -1,0 +1,19 @@
+body {
+    margin: 0;
+    overflow: hidden;
+}
+
+.green{
+    color: rgb(156, 253, 10);
+}
+
+#materials{
+    position: absolute;
+    bottom: 0px;
+    width: 100%;
+    text-align: center;
+    z-index: 100;
+    display: block;
+    background-color:transparent; 
+}
+
